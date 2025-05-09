@@ -1,6 +1,7 @@
 <template>
   <div class="about">
-    <h1>This is an about page</h1>
+    <h1>虚拟列表实现</h1>
+    
   </div>
 </template>
 
